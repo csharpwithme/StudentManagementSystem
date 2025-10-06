@@ -27,7 +27,7 @@ The project demonstrates **CRUD operations** using a **3-layer architecture (UI,
 
 ## Screenshot
 ### Main Page
-(SMS.JPG)
+SMS.JPG
 
 ---
 
